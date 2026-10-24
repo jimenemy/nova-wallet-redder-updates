@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T03:05:46Z",
+  "released_at": "2026-10-24T03:12:21Z",
   "windows": {
     "version": "1.0.3",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.3/NovaWalletRedder.exe",
@@ -9,5 +9,12 @@
     "size": 127165396,
     "changelog": "Hotfix QTimer boot-crash; nieuwe dest/gas defaults; key UX; V3 burn i.p.v. NFT-transfer."
   },
-  "signature": "O5Z2A1AnOArYHx3fyGUJ4rHp7IVHdGJ5dIRiu7D1MRwffIvSPp79UNKhPCD0403BkATLFfYTctmf+kZoYyyLCw=="
+  "android": {
+    "version": "1.0.3",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.3/NovaWalletRedder.apk",
+    "sha256": "c5420cb8858456840d15d725d4fe6d9f638596856a6431bec0f0bade60ecb353",
+    "size": 79824336,
+    "changelog": "Hotfix QTimer boot-crash; nieuwe dest/gas defaults; key UX; V3 burn i.p.v. NFT-transfer."
+  },
+  "signature": "q3RLeqOh0H3VKXexIR3IwueasdzSzV+LQwAxvT69Ro5KFwTS9ovOEQ8A6QdVPW9QFtW2/ubY36cwX2cmFHrHDQ=="
 }
