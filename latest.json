@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T20:51:19Z",
+  "released_at": "2026-10-24T21:38:31Z",
   "windows": {
-    "version": "1.0.11",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.11/NovaWalletRedder.exe",
-    "sha256": "d8358b5c8fc4cfb538aac8c6e020a51a64cea54352a2696fa13b9221e17045c8",
-    "size": 127198917,
-    "changelog": "v1.0.11: volle token-discovery, kleine bundles, TF\u2192NFT-fallback, geen stil-skip, unwrap uit. Alles terug uit gelekte wallets."
+    "version": "1.0.12",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.12/NovaWalletRedder.exe",
+    "sha256": "92f8efdee0397a21fb6d65fe7352f21bf4bc3bc51b298be1ada0ee4e91aa3574",
+    "size": 127202722,
+    "changelog": "v1.0.12: seedphrase-normalisatie (hoofdletters/NBSP/nummering); fout = woord #N of checksum, nooit het woord; spaties blijven bij opslaan."
   },
   "android": {
-    "version": "1.0.11",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.11/NovaWalletRedder.apk",
-    "sha256": "c51d879de923dd53da3032c258e8c0a87201aafc5811ba7ad4fa516407a123e6",
-    "size": 122778319,
-    "changelog": "v1.0.11: volle token-discovery, kleine bundles, TF\u2192NFT-fallback, geen stil-skip, unwrap uit. Alles terug uit gelekte wallets."
+    "version": "1.0.12",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.12/NovaWalletRedder.apk",
+    "sha256": "d843d06babe22adbc4075f9cb67df8395b966ae7cc48e429484356b6477f1120",
+    "size": 122780107,
+    "changelog": "v1.0.12: seedphrase-normalisatie (hoofdletters/NBSP/nummering); fout = woord #N of checksum, nooit het woord; spaties blijven bij opslaan."
   },
-  "signature": "2WEYFPb58mUkDHSfC1qMlgtFupjQPK/ET2sgIOn7rUe21hTiX8XZ2lI7/AX0x7Br4hpGqmfeZsfDlZIJfpG7Dg=="
+  "signature": "UYG1puJiZX5NOW/WcQuwIxfsPV0DF6KZzL+vmOXw2pKmcPdlxnx//MAsxCDU2Qcf7lRFD+rn3OvP0Vq5Efu6DQ=="
 }
