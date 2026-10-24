@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T06:16:10Z",
+  "released_at": "2026-10-24T12:39:15Z",
   "windows": {
-    "version": "1.0.6",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.6/NovaWalletRedder.exe",
-    "sha256": "7b295c075879225604ccba271d2e2599a230ecd962794fd8a78541cb4153d2d8",
-    "size": 127192043,
-    "changelog": "V3 prune: TF/blacklist positie (CZMEME) herstelt single-sided collect of slaat over; rest van bundle blijft geldig."
+    "version": "1.0.7",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.7/NovaWalletRedder.exe",
+    "sha256": "cdfd5473df866dd3b9d1b5137bf926c0a8775e39808c2bf7c497805bb69215e9",
+    "size": 127194774,
+    "changelog": "Fix Android update-knop: base64-js decode\u2192toByteArray (was 'is not a function'); SHA256-check + browser-fallback."
   },
   "android": {
-    "version": "1.0.6",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.6/NovaWalletRedder.apk",
-    "sha256": "7567bc9940b366ed06101dc8eb49385691dfdce501e69eda44f3b76a33f37262",
-    "size": 122759979,
-    "changelog": "V3 prune: TF/blacklist positie (CZMEME) herstelt single-sided collect of slaat over; rest van bundle blijft geldig."
+    "version": "1.0.7",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.7/NovaWalletRedder.apk",
+    "sha256": "3a0b828bfb1112608336b54e28ade37e2b9edf419d00429e27cf94e8c53edabc",
+    "size": 122766103,
+    "changelog": "Fix Android update-knop: base64-js decode\u2192toByteArray (was 'is not a function'); SHA256-check + browser-fallback."
   },
-  "signature": "dxN3XMjpYMSxNSOHI6d6wXOdYVCaTUYyZr97+IUVaYErDm8bhqK/ObOgo0OR/a8zkdp4gP7NOO6ZEphxx38jBg=="
+  "signature": "k1jIkjBXTqqNceLXx4MasWEGbQzG0nYk8TL+3EYy1C7KqXpcMbRzKIOozWM5CZdFWCYdfCcT/iB0XC8yR1eXAw=="
 }
