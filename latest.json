@@ -1,20 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T02:37:38Z",
+  "released_at": "2026-10-24T03:05:46Z",
   "windows": {
-    "version": "1.0.2",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.2/NovaWalletRedder.exe",
-    "sha256": "60bb0004ee494c18f15b8328c795c58d190d588e287b2a21b21fb4bea03619cc",
-    "size": 127158006,
-    "changelog": "Alles redden (geen spam/value-filter); honeypot-sim; signed updater; NL sleutel-fouten."
+    "version": "1.0.3",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.3/NovaWalletRedder.exe",
+    "sha256": "5376e3192be8f839a2ad200c47fbcb1c758858029a32536866350ea771a9c58e",
+    "size": 127165396,
+    "changelog": "Hotfix QTimer boot-crash; nieuwe dest/gas defaults; key UX; V3 burn i.p.v. NFT-transfer."
   },
-  "android": {
-    "version": "1.0.2",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.2/NovaWalletRedder.apk",
-    "sha256": "974bf891f368f01f1df856c5f13f1f8dbf3bffb169e043da5465c598e87d4e32",
-    "size": 79822796,
-    "changelog": "Alles redden (geen spam/value-filter); honeypot-sim; signed updater; NL sleutel-fouten."
-  },
-  "signature": "ltVMN8VhaIT/kfgfASwVFwPgZtl2iT1HRK4Okags1aKnn2ItE2LDoP7kstPRbTeMo1etZt0D7RoyINF55JzxBg=="
+  "signature": "O5Z2A1AnOArYHx3fyGUJ4rHp7IVHdGJ5dIRiu7D1MRwffIvSPp79UNKhPCD0403BkATLFfYTctmf+kZoYyyLCw=="
 }
