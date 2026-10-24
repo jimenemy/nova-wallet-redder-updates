@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T02:35:51Z",
+  "released_at": "2026-10-24T02:37:38Z",
   "windows": {
     "version": "1.0.2",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.2/NovaWalletRedder.exe",
@@ -9,5 +9,12 @@
     "size": 127158006,
     "changelog": "Alles redden (geen spam/value-filter); honeypot-sim; signed updater; NL sleutel-fouten."
   },
-  "signature": "97yGJUpGlvy6BGaDQeztlA96q9GZ859DhkiZfQuvBlvu6Q/ego0ARTPgVnFCl/Hd3AFhmYIuKRKVLDH8aCHbBA=="
+  "android": {
+    "version": "1.0.2",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.2/NovaWalletRedder.apk",
+    "sha256": "974bf891f368f01f1df856c5f13f1f8dbf3bffb169e043da5465c598e87d4e32",
+    "size": 79822796,
+    "changelog": "Alles redden (geen spam/value-filter); honeypot-sim; signed updater; NL sleutel-fouten."
+  },
+  "signature": "ltVMN8VhaIT/kfgfASwVFwPgZtl2iT1HRK4Okags1aKnn2ItE2LDoP7kstPRbTeMo1etZt0D7RoyINF55JzxBg=="
 }
