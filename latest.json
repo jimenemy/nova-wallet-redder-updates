@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T14:37:35Z",
+  "released_at": "2026-10-24T15:06:26Z",
   "windows": {
-    "version": "1.0.9",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.9/NovaWalletRedder.exe",
-    "sha256": "2d938d482ac4b732b9a8ba9b26ac7915fdd1de420afcb797cbdb18b3bd2e3911",
-    "size": 127195181,
-    "changelog": "Fix: keys met onzichtbare tekens (ZWS/newline) crashen niet meer (ethers BytesLike); fouten redacteren geheimen."
+    "version": "1.0.10",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.10/NovaWalletRedder.exe",
+    "sha256": "cbc94e16810ac8e3735dad03c42ab9e3700761c574a51f839d1e4dede3132e45",
+    "size": 127196112,
+    "changelog": "Gaswallet-key: alle onzichtbare tekens verwijderd; foutmelding toont welk veld/stap, zonder waarden."
   },
   "android": {
-    "version": "1.0.9",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.9/NovaWalletRedder.apk",
-    "sha256": "929fcdf58dcfa24762617710af63c2ebe517568b7027a47cd5923706dbcc139d",
-    "size": 122768551,
-    "changelog": "Fix: keys met onzichtbare tekens (ZWS/newline) crashen niet meer (ethers BytesLike); fouten redacteren geheimen."
+    "version": "1.0.10",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.10/NovaWalletRedder.apk",
+    "sha256": "99ceb19435d8d8caf572815b58d906399e9d7f3e2d878d6f60910a89afe7bf36",
+    "size": 122768883,
+    "changelog": "Gaswallet-key: alle onzichtbare tekens verwijderd; foutmelding toont welk veld/stap, zonder waarden."
   },
-  "signature": "lWeD/uGYdYVP+oU45cF8t1WaJlTIvuYeapbMw6AKiQX2CDG+x4FiHV+ccqz8qQe0paXlwKTNjgVJrzv/HPSeAg=="
+  "signature": "N3s8r4PDTbYJytOKBqmW8mi32T/IyOGCXSRSKo26jADL9ZI6ioUqMPOqiC9FFc0dOFDZdqOsZini+9vICAn0Aw=="
 }
