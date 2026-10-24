@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T03:41:41Z",
+  "released_at": "2026-10-24T05:02:39Z",
   "windows": {
-    "version": "1.0.4",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.4/NovaWalletRedder.exe",
-    "sha256": "dcf7f04eaba8f532dd99c27e14edb3088156575c887d3eb6f52a28d4445d7a62",
-    "size": 127174571,
-    "changelog": "OCR+Bewaken APK; seed in gas/wallets; Toon sleutels globaal; BSC burn-parity."
+    "version": "1.0.5",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.5/NovaWalletRedder.exe",
+    "sha256": "f9ee597bc109617b413acaa0c6e0b7aaaa0b4d616c54f2c9b34ad26e4168229d",
+    "size": 127185887,
+    "changelog": "Hotfix: Bewaken gas-loop guards + daglimiet, 7702 top-up gas fix, RPC failover, stof-blokkade, kost v\u00f3\u00f3r LIVE."
   },
-  "signature": "nO5tRHqmJQDk5poNfQCaytIY4lp6bVcI45bcZaxxkbDnyZ6tsL3uUDPjAyfjnXWomqLDwgbhmUj0X7MFoeTPDw=="
+  "signature": "rTC2Cg+yX8LpKPlWib1Odt/bByvoWbfdcM/3cmF1cxVAULhzTSsWUncwsAEXbceNzuQdW+8zKnaBF0lY5VVZAg=="
 }
