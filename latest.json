@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T13:28:01Z",
+  "released_at": "2026-10-24T14:37:35Z",
   "windows": {
-    "version": "1.0.8",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.8/NovaWalletRedder.exe",
-    "sha256": "62f8e9ea29ea5607e9bf9bb6da7b7d79c024c34e2a2b89ff69b7ab56cd9cd942",
-    "size": 127195300,
-    "changelog": "Sleutels blijven bewaard bij updates (auto-load + stabiele Android-signing + Windows AppData). Geen herinstallatie nodig vanaf v1.0.3+."
+    "version": "1.0.9",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.9/NovaWalletRedder.exe",
+    "sha256": "2d938d482ac4b732b9a8ba9b26ac7915fdd1de420afcb797cbdb18b3bd2e3911",
+    "size": 127195181,
+    "changelog": "Fix: keys met onzichtbare tekens (ZWS/newline) crashen niet meer (ethers BytesLike); fouten redacteren geheimen."
   },
   "android": {
-    "version": "1.0.8",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.8/NovaWalletRedder.apk",
-    "sha256": "deb40f713f740af669ddd4938afd40e68df2810ff1469ec80b101d67c4537326",
-    "size": 122767099,
-    "changelog": "Sleutels blijven bewaard bij updates (auto-load + stabiele Android-signing + Windows AppData). Geen herinstallatie nodig vanaf v1.0.3+."
+    "version": "1.0.9",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.9/NovaWalletRedder.apk",
+    "sha256": "929fcdf58dcfa24762617710af63c2ebe517568b7027a47cd5923706dbcc139d",
+    "size": 122768551,
+    "changelog": "Fix: keys met onzichtbare tekens (ZWS/newline) crashen niet meer (ethers BytesLike); fouten redacteren geheimen."
   },
-  "signature": "LeVwenRmJ+MIk3DyRtGXX0W5xqWfU0b7mU8axoTxV5n5U/Mu6wSuyO2t8vBTCxhI0kgIITS117YQ6Z7nuhYDDQ=="
+  "signature": "lWeD/uGYdYVP+oU45cF8t1WaJlTIvuYeapbMw6AKiQX2CDG+x4FiHV+ccqz8qQe0paXlwKTNjgVJrzv/HPSeAg=="
 }
