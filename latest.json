@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T05:29:50Z",
+  "released_at": "2026-10-24T06:16:10Z",
   "windows": {
-    "version": "1.0.5",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.5/NovaWalletRedder.exe",
-    "sha256": "f9ee597bc109617b413acaa0c6e0b7aaaa0b4d616c54f2c9b34ad26e4168229d",
-    "size": 127185887,
-    "changelog": "Hotfix: Bewaken gas-loop guards + daglimiet, 7702 top-up gas fix, RPC failover, stof-blokkade, kost v\u00f3\u00f3r LIVE. APK: ML Kit OCR, FG-Bewaken, Toon sleutels."
+    "version": "1.0.6",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.6/NovaWalletRedder.exe",
+    "sha256": "7b295c075879225604ccba271d2e2599a230ecd962794fd8a78541cb4153d2d8",
+    "size": 127192043,
+    "changelog": "V3 prune: TF/blacklist positie (CZMEME) herstelt single-sided collect of slaat over; rest van bundle blijft geldig."
   },
   "android": {
-    "version": "1.0.5",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.5/NovaWalletRedder.apk",
-    "sha256": "a544f9cee62294a92b8fc8943fb5a4d2f4653ed240ff349e3257ada3ea751a64",
-    "size": 122756567,
-    "changelog": "Hotfix: Bewaken gas-loop guards + daglimiet, 7702 top-up gas fix, RPC failover, stof-blokkade, kost v\u00f3\u00f3r LIVE. APK: ML Kit OCR, FG-Bewaken, Toon sleutels."
+    "version": "1.0.6",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.6/NovaWalletRedder.apk",
+    "sha256": "7567bc9940b366ed06101dc8eb49385691dfdce501e69eda44f3b76a33f37262",
+    "size": 122759979,
+    "changelog": "V3 prune: TF/blacklist positie (CZMEME) herstelt single-sided collect of slaat over; rest van bundle blijft geldig."
   },
-  "signature": "frRGTN9qJblIlK9ng8O01z9jtxGRqjCRLjsZYSBtbIKUeCjkUCYdt+TRe0FSO1CKTouIxizomaz76XEigJ8pCg=="
+  "signature": "dxN3XMjpYMSxNSOHI6d6wXOdYVCaTUYyZr97+IUVaYErDm8bhqK/ObOgo0OR/a8zkdp4gP7NOO6ZEphxx38jBg=="
 }
