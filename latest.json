@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T15:06:26Z",
+  "released_at": "2026-10-24T20:51:19Z",
   "windows": {
-    "version": "1.0.10",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.10/NovaWalletRedder.exe",
-    "sha256": "cbc94e16810ac8e3735dad03c42ab9e3700761c574a51f839d1e4dede3132e45",
-    "size": 127196112,
-    "changelog": "Gaswallet-key: alle onzichtbare tekens verwijderd; foutmelding toont welk veld/stap, zonder waarden."
+    "version": "1.0.11",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.11/NovaWalletRedder.exe",
+    "sha256": "d8358b5c8fc4cfb538aac8c6e020a51a64cea54352a2696fa13b9221e17045c8",
+    "size": 127198917,
+    "changelog": "v1.0.11: volle token-discovery, kleine bundles, TF\u2192NFT-fallback, geen stil-skip, unwrap uit. Alles terug uit gelekte wallets."
   },
   "android": {
-    "version": "1.0.10",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.10/NovaWalletRedder.apk",
-    "sha256": "99ceb19435d8d8caf572815b58d906399e9d7f3e2d878d6f60910a89afe7bf36",
-    "size": 122768883,
-    "changelog": "Gaswallet-key: alle onzichtbare tekens verwijderd; foutmelding toont welk veld/stap, zonder waarden."
+    "version": "1.0.11",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.11/NovaWalletRedder.apk",
+    "sha256": "c51d879de923dd53da3032c258e8c0a87201aafc5811ba7ad4fa516407a123e6",
+    "size": 122778319,
+    "changelog": "v1.0.11: volle token-discovery, kleine bundles, TF\u2192NFT-fallback, geen stil-skip, unwrap uit. Alles terug uit gelekte wallets."
   },
-  "signature": "N3s8r4PDTbYJytOKBqmW8mi32T/IyOGCXSRSKo26jADL9ZI6ioUqMPOqiC9FFc0dOFDZdqOsZini+9vICAn0Aw=="
+  "signature": "2WEYFPb58mUkDHSfC1qMlgtFupjQPK/ET2sgIOn7rUe21hTiX8XZ2lI7/AX0x7Br4hpGqmfeZsfDlZIJfpG7Dg=="
 }
