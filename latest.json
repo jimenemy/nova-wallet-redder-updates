@@ -1,20 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-24T03:12:21Z",
+  "released_at": "2026-10-24T03:41:41Z",
   "windows": {
-    "version": "1.0.3",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.3/NovaWalletRedder.exe",
-    "sha256": "5376e3192be8f839a2ad200c47fbcb1c758858029a32536866350ea771a9c58e",
-    "size": 127165396,
-    "changelog": "Hotfix QTimer boot-crash; nieuwe dest/gas defaults; key UX; V3 burn i.p.v. NFT-transfer."
+    "version": "1.0.4",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.4/NovaWalletRedder.exe",
+    "sha256": "dcf7f04eaba8f532dd99c27e14edb3088156575c887d3eb6f52a28d4445d7a62",
+    "size": 127174571,
+    "changelog": "OCR+Bewaken APK; seed in gas/wallets; Toon sleutels globaal; BSC burn-parity."
   },
-  "android": {
-    "version": "1.0.3",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.3/NovaWalletRedder.apk",
-    "sha256": "c5420cb8858456840d15d725d4fe6d9f638596856a6431bec0f0bade60ecb353",
-    "size": 79824336,
-    "changelog": "Hotfix QTimer boot-crash; nieuwe dest/gas defaults; key UX; V3 burn i.p.v. NFT-transfer."
-  },
-  "signature": "q3RLeqOh0H3VKXexIR3IwueasdzSzV+LQwAxvT69Ro5KFwTS9ovOEQ8A6QdVPW9QFtW2/ubY36cwX2cmFHrHDQ=="
+  "signature": "nO5tRHqmJQDk5poNfQCaytIY4lp6bVcI45bcZaxxkbDnyZ6tsL3uUDPjAyfjnXWomqLDwgbhmUj0X7MFoeTPDw=="
 }
