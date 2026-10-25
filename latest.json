@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T13:19:25Z",
+  "released_at": "2026-10-25T15:06:10Z",
   "windows": {
-    "version": "1.0.16",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.16/NovaWalletRedder.exe",
-    "sha256": "2467f31404139442073dda7d4ed493a32c96ca252ce52b706ac2560ff6d7e855",
-    "size": 127611875,
-    "changelog": "v1.0.16: koppel-QR past nu altijd op het scherm (eigen venster, Groter/Kleiner, kleinere QR); typ-code XXXXX-XXXXX (10 min, E2E) als alternatief; scannen in de app; volledig twee-weg live sync (wallets, instellingen, tokens, status, logs)."
+    "version": "1.0.17",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.17/NovaWalletRedder.exe",
+    "sha256": "3ddd31294a8e65814c47afad156d11d022cdff83a528d5df6269e90bcc1efc56",
+    "size": 127618228,
+    "changelog": "v1.0.17: laptop-update werkt weer betrouwbaar (fix 'Failed to load Python DLL'). De nieuwe versie start nu met een schone omgeving, pas nadat de oude app helemaal dicht is; download wordt eerst op grootte + SHA256 gecontroleerd; oude exe blijft als .bak (automatisch terugzetten als het wisselen mislukt)."
   },
   "android": {
     "version": "1.0.16",
@@ -16,5 +16,5 @@
     "size": 122800015,
     "changelog": "v1.0.16: koppel-QR past nu altijd op het scherm (eigen venster, Groter/Kleiner, kleinere QR); typ-code XXXXX-XXXXX (10 min, E2E) als alternatief; scannen in de app; volledig twee-weg live sync (wallets, instellingen, tokens, status, logs)."
   },
-  "signature": "Cam0gxuEZRSY7usbeFy7uheHGivz2Hki2zdgAbGQHaAo2dFjYzbYY5zoQkNC6shruX7WxW0HYPSf0R7KTdavCg=="
+  "signature": "qnqftyzWXjAbSDt7sF4ISmuWwvYVa7XcRqei7fJeFeGOqzfyggkD+/KPsYziHztCbvlqQdFgnWjAohAgHk0aCQ=="
 }
