@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T01:52:47Z",
+  "released_at": "2026-10-25T03:34:40Z",
   "windows": {
-    "version": "1.0.13",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.13/NovaWalletRedder.exe",
-    "sha256": "9e21584a4d078270aefaf79183630d1e7c96b233962f9c3d5612001b1f5bbf3b",
-    "size": 127206292,
-    "changelog": "v1.0.13: token-per-token (1 tx/bundle); tip-ladder + 48club/titan parallel; builder-antwoord in NL-log; Transfer-logs met chunk-fouten; nep-saldo skip; UBOX in discovery. Sync \u2192 v1.0.14."
+    "version": "1.0.14",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.exe",
+    "sha256": "8c0d78ee4866b7914f022e4f09dce133f85709d7a924da7e12513f015e554839",
+    "size": 127500143,
+    "changelog": "v1.0.14: in-app APK update fix (NEW_TASK|GRANT_READ); unknown-sources prompt; live sync exe\u2194APK; tip-budget; nep-saldo skip opt-in; UBOX known-list."
   },
   "android": {
-    "version": "1.0.13",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.13/NovaWalletRedder.apk",
-    "sha256": "dc6331149151cefbc604b684447f281e46b87b6ffcd38c1c084dcfe90d88469c",
-    "size": 122784703,
-    "changelog": "v1.0.13: token-per-token (1 tx/bundle); tip-ladder + 48club/titan parallel; builder-antwoord in NL-log; Transfer-logs met chunk-fouten; nep-saldo skip; UBOX in discovery. Sync \u2192 v1.0.14."
+    "version": "1.0.14",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.apk",
+    "sha256": "f08212c85c2dc58f0a0ccdbf81f0da8db5c12c25e6ee02c893e44995f0bb070d",
+    "size": 122792055,
+    "changelog": "v1.0.14: in-app APK update fix (NEW_TASK|GRANT_READ); unknown-sources prompt; live sync exe\u2194APK; tip-budget; nep-saldo skip opt-in; UBOX known-list."
   },
-  "signature": "dX5zOUcRhhrxlX5d2iCGjuDCZzhmz8KeOduAs3ZC56gofSefG5EOMXEf/VNHKctnswxYAaXCHs93/x2H3UxkCQ=="
+  "signature": "PDrLDmSoXCiaenQceyxchnOGQkGMQBHhTu6ATan5n1Epaylcc9sUyKe2zAsPlOdEV9Zu7mkapvjhY9P5AXHMBQ=="
 }
