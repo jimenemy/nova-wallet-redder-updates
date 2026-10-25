@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T01:15:56Z",
+  "released_at": "2026-10-25T01:52:47Z",
   "windows": {
     "version": "1.0.13",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.13/NovaWalletRedder.exe",
-    "sha256": "e97de90ae460e680cdc9131e75b07a193fa909b6fea6124440799a0bcc697ab2",
-    "size": 127203373,
-    "changelog": "v1.0.13: 1-tx bundles + blijf proberen (4 herbouw-rondes); UBOX/OX in discovery; nep-saldo tokens overslaan met NL-reden; Transfer-log lookback \u00d74. Live sync exe\u2194APK volgt in v1.0.14."
+    "sha256": "9e21584a4d078270aefaf79183630d1e7c96b233962f9c3d5612001b1f5bbf3b",
+    "size": 127206292,
+    "changelog": "v1.0.13: token-per-token (1 tx/bundle); tip-ladder + 48club/titan parallel; builder-antwoord in NL-log; Transfer-logs met chunk-fouten; nep-saldo skip; UBOX in discovery. Sync \u2192 v1.0.14."
   },
   "android": {
     "version": "1.0.13",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.13/NovaWalletRedder.apk",
-    "sha256": "23acdc700e56721a6a962cba7a7dfe1b56c4e559ee4f8a793234beafbfa66792",
-    "size": 122780907,
-    "changelog": "v1.0.13: 1-tx bundles + blijf proberen (4 herbouw-rondes); UBOX/OX in discovery; nep-saldo tokens overslaan met NL-reden; Transfer-log lookback \u00d74. Live sync exe\u2194APK volgt in v1.0.14."
+    "sha256": "dc6331149151cefbc604b684447f281e46b87b6ffcd38c1c084dcfe90d88469c",
+    "size": 122784703,
+    "changelog": "v1.0.13: token-per-token (1 tx/bundle); tip-ladder + 48club/titan parallel; builder-antwoord in NL-log; Transfer-logs met chunk-fouten; nep-saldo skip; UBOX in discovery. Sync \u2192 v1.0.14."
   },
-  "signature": "2RTNCus8mOTsNPu19t4GEZy61ZtEYfN80rjFBRKEqSRro0MjMZQwjQqsmcZYnrzbDcwHHC0iS4NXGfgpkDfwCg=="
+  "signature": "dX5zOUcRhhrxlX5d2iCGjuDCZzhmz8KeOduAs3ZC56gofSefG5EOMXEf/VNHKctnswxYAaXCHs93/x2H3UxkCQ=="
 }
