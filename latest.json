@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T04:41:39Z",
+  "released_at": "2026-10-25T11:50:16Z",
   "windows": {
-    "version": "1.0.14",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.exe",
-    "sha256": "aba41149aa3c2a398c5d3afe81acec391e7b0154a7359b16c3eeca60d7e0b2a9",
-    "size": 127501392,
-    "changelog": "v1.0.14: FIX in-app APK update (NEW_TASK|GRANT_READ_URI + unknown-sources prompt); elk token geprobeerd (nep-saldo skip UIT) met NL reden per token; echte UBX 0x626d in discovery; live sync; tip-budget."
+    "version": "1.0.15",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.15/NovaWalletRedder.exe",
+    "sha256": "98a45d5cb2b9021fb577e514d84f928e023bb83cca61118031d89a06b7d39ce9",
+    "size": 127598035,
+    "changelog": "v1.0.15 — FIX: app crashte bij opstarten (ModuleNotFoundError nacl._sodium). De PyNaCl-versleutelmodule voor telefoon-sync zit nu in de .exe; sync valt veilig terug i.p.v. te crashen. Je sleutels blijven bewaard. Jij drukt op Start."
   },
   "android": {
     "version": "1.0.14",
@@ -16,5 +16,5 @@
     "size": 122793443,
     "changelog": "v1.0.14: FIX in-app APK update (NEW_TASK|GRANT_READ_URI + unknown-sources prompt); elk token geprobeerd (nep-saldo skip UIT) met NL reden per token; echte UBX 0x626d in discovery; live sync; tip-budget."
   },
-  "signature": "9J7Hbju4f/qDjRg9d3U80zOdJQbAHf2u/41LCDQlehNOZzbIY4MFbrD2rHtCR7nRoTqJp25z9jZcbucz+GBbDw=="
+  "signature": "+CQXuU9EFOnbwDmR1NnmugHo9GOZqizusY+UeUBGuvUbpmNHeWi0zHFL8zzkfj2EjEIjf9t04yCW0+Z3vVlsCQ=="
 }
