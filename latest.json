@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T03:39:16Z",
+  "released_at": "2026-10-25T04:41:39Z",
   "windows": {
     "version": "1.0.14",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.exe",
-    "sha256": "8c0d78ee4866b7914f022e4f09dce133f85709d7a924da7e12513f015e554839",
-    "size": 127500143,
-    "changelog": "v1.0.14: FIX in-app APK install (NEW_TASK|GRANT_READ_URI); unknown-sources prompt; live sync; tip-budget; UBOX known-list. Installeer handmatig als check-update nog 1.0.13 toont (CDN)."
+    "sha256": "aba41149aa3c2a398c5d3afe81acec391e7b0154a7359b16c3eeca60d7e0b2a9",
+    "size": 127501392,
+    "changelog": "v1.0.14: FIX in-app APK update (NEW_TASK|GRANT_READ_URI + unknown-sources prompt); elk token geprobeerd (nep-saldo skip UIT) met NL reden per token; echte UBX 0x626d in discovery; live sync; tip-budget."
   },
   "android": {
     "version": "1.0.14",
     "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.apk",
-    "sha256": "f08212c85c2dc58f0a0ccdbf81f0da8db5c12c25e6ee02c893e44995f0bb070d",
-    "size": 122792055,
-    "changelog": "v1.0.14: FIX in-app APK install (NEW_TASK|GRANT_READ_URI); unknown-sources prompt; live sync; tip-budget; UBOX known-list. Installeer handmatig als check-update nog 1.0.13 toont (CDN)."
+    "sha256": "63d124c8e3e9d0373773d125f6c3bc355e621c70a289cf5ab000e3c118043aad",
+    "size": 122793443,
+    "changelog": "v1.0.14: FIX in-app APK update (NEW_TASK|GRANT_READ_URI + unknown-sources prompt); elk token geprobeerd (nep-saldo skip UIT) met NL reden per token; echte UBX 0x626d in discovery; live sync; tip-budget."
   },
-  "signature": "8URhBuzpywNN2KIf3/ot/AD1jUJRTEMfjqlOxWuGlSCG3yCGZ+dPAwu//MajIsDGVJ+OMBPqOLSaPQ1Mj8QvBw=="
+  "signature": "9J7Hbju4f/qDjRg9d3U80zOdJQbAHf2u/41LCDQlehNOZzbIY4MFbrD2rHtCR7nRoTqJp25z9jZcbucz+GBbDw=="
 }
