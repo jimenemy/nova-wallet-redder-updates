@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released_at": "2026-10-25T11:50:16Z",
+  "released_at": "2026-10-25T13:19:25Z",
   "windows": {
-    "version": "1.0.15",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.15/NovaWalletRedder.exe",
-    "sha256": "98a45d5cb2b9021fb577e514d84f928e023bb83cca61118031d89a06b7d39ce9",
-    "size": 127598035,
-    "changelog": "v1.0.15 — FIX: app crashte bij opstarten (ModuleNotFoundError nacl._sodium). De PyNaCl-versleutelmodule voor telefoon-sync zit nu in de .exe; sync valt veilig terug i.p.v. te crashen. Je sleutels blijven bewaard. Jij drukt op Start."
+    "version": "1.0.16",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.16/NovaWalletRedder.exe",
+    "sha256": "2467f31404139442073dda7d4ed493a32c96ca252ce52b706ac2560ff6d7e855",
+    "size": 127611875,
+    "changelog": "v1.0.16: koppel-QR past nu altijd op het scherm (eigen venster, Groter/Kleiner, kleinere QR); typ-code XXXXX-XXXXX (10 min, E2E) als alternatief; scannen in de app; volledig twee-weg live sync (wallets, instellingen, tokens, status, logs)."
   },
   "android": {
-    "version": "1.0.14",
-    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.14/NovaWalletRedder.apk",
-    "sha256": "63d124c8e3e9d0373773d125f6c3bc355e621c70a289cf5ab000e3c118043aad",
-    "size": 122793443,
-    "changelog": "v1.0.14: FIX in-app APK update (NEW_TASK|GRANT_READ_URI + unknown-sources prompt); elk token geprobeerd (nep-saldo skip UIT) met NL reden per token; echte UBX 0x626d in discovery; live sync; tip-budget."
+    "version": "1.0.16",
+    "url": "https://github.com/jimenemy/nova-wallet-redder-updates/releases/download/v1.0.16/NovaWalletRedder.apk",
+    "sha256": "0052090ae53bf5d83587e49ae748c4f92a8651b151ed79092b8bda38a2d6113e",
+    "size": 122800015,
+    "changelog": "v1.0.16: koppel-QR past nu altijd op het scherm (eigen venster, Groter/Kleiner, kleinere QR); typ-code XXXXX-XXXXX (10 min, E2E) als alternatief; scannen in de app; volledig twee-weg live sync (wallets, instellingen, tokens, status, logs)."
   },
-  "signature": "+CQXuU9EFOnbwDmR1NnmugHo9GOZqizusY+UeUBGuvUbpmNHeWi0zHFL8zzkfj2EjEIjf9t04yCW0+Z3vVlsCQ=="
+  "signature": "Cam0gxuEZRSY7usbeFy7uheHGivz2Hki2zdgAbGQHaAo2dFjYzbYY5zoQkNC6shruX7WxW0HYPSf0R7KTdavCg=="
 }
