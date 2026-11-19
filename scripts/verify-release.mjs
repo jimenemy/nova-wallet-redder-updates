@@ -52,7 +52,7 @@ async function main() {
     const data = manifest[platform];
     if (!data || typeof data !== 'object')
       abort('Missing signed platform: ' + platform);
-    if (!/^\\d+\\.\\d+\\.\\d+$/.test(data.version || ''))
+    if (!/^\d+\.\d+\.\d+$/.test(data.version || ''))
       abort('Invalid signed version: ' + platform);
     if (!/^[a-f0-9]{64}$/.test(data.sha256 || ''))
       abort('Invalid signed SHA-256: ' + platform);
